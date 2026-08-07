@@ -37,6 +37,17 @@ It enables marketers and analysts to:
 
 ---
 
+## 📌 Business Questions Answered
+
+This dashboard helps answer the following business questions:
+
+- Which campaign generated the highest Click-Through Rate (CTR)?
+- Which audience segment has the highest engagement?
+- Which country generated the most impressions?
+- Which ad type performs the best?
+- How does campaign performance change over time?
+- Which campaigns require optimization?
+
 ## 📑 Table of Contents
 
 - [Dashboard Preview](#-dashboard-preview)
@@ -66,6 +77,18 @@ It enables marketers and analysts to:
 > **Theme 2:** Purple Professional Theme
 
 ---
+
+## 📈 Key Insights
+
+Based on the dashboard analysis:
+
+- Facebook generated the highest overall impressions.
+- CTR varied significantly across campaign types.
+- Certain audience segments showed consistently higher engagement.
+- Campaign performance changed throughout the year.
+- Geographic analysis identified the highest-performing countries.
+- Budget allocation directly impacted campaign reach and conversions.
+
 
 ## 🎯 Project Objectives
 
@@ -229,6 +252,13 @@ Some key findings from the dashboard include:
 - Peak engagement occurred during specific hours.
 - CTR varied significantly between campaign types.
 - Budget allocation influenced campaign efficiency.
+
+## 💡 Recommendations
+
+- Increase budget for high-performing campaigns.
+- Optimize campaigns with CTR below 2%.
+- Focus more on audiences with higher engagement.
+- Reduce spending on low-performing ad creatives.
 
 
 ## 📁 Project Structure

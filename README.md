@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/Banner.png" width="100%">
+</p>
+
 # 📊 Meta Ads Performance Dashboard | Power BI
 
 > **An interactive Power BI dashboard for analyzing Meta (Facebook & Instagram) advertising campaigns using Power Query, DAX, and interactive visualizations.**
@@ -37,10 +41,60 @@ This dashboard helps answer questions such as:
 # 🖼 Dashboard Preview
 
 <p align="center">
-  <img src="Images/Dashboard_Blue.png" alt="Blue Theme Dashboard" width="48%"/>
-  <img src="Images/Dashboard_Purple.png" alt="Purple Theme Dashboard" width="48%"/>
+  <img src="Images/Dashboard_Blue.png" alt="Blue Theme Dashboard" width="49.5%">
+  <img src="Images/Dashboard_Purple.png" alt="Purple Theme Dashboard" width="49.5%">
 </p>
 
 > **Theme 1:** Blue Professional Theme  
 > **Theme 2:** Purple Professional Theme
+
+---
+
+
+# ✨ Key Features
+
+- 📊 Interactive KPI cards for marketing performance tracking
+- 📈 Weekly and hourly trend analysis
+- 👥 Audience segmentation by Gender, Age, and Country
+- 🎯 Campaign performance monitoring
+- 💰 Budget utilization analysis
+- 📦 Ad format comparison (Carousel, Image, Stories & Video)
+- 🔄 Dynamic slicers and filters
+- ⚡ Custom DAX measures
+- 🧹 Data cleaning with Power Query
+- 🎨 Dual dashboard themes
+
+---
+
+# 📊 Key Performance Indicators (KPIs)
+
+| KPI | Description |
+|------|-------------|
+| Impressions | Total ad impressions |
+| Clicks | Total clicks received |
+| Engagements | Overall engagement |
+| Shares | Number of shares |
+| Comments | User comments |
+| Purchases | Total conversions |
+| CTR | Click Through Rate |
+| Engagement Rate | User engagement percentage |
+| Conversion Rate | Conversion percentage |
+| Purchase Rate | Purchase percentage |
+| Total Budget | Advertising budget |
+| Average Budget | Budget per campaign |
+
+---
+
+# 🛠 Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Dashboard Development |
+| Power Query | Data Cleaning |
+| DAX | KPI Calculations |
+| Excel | Dataset |
+| Git & GitHub | Version Control |
+| VS Code | Documentation |
+
+
 ---
